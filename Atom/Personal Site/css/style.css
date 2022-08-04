@@ -1,0 +1,136 @@
+
+body {
+  padding-top:0;
+  text-align: center;
+  margin: 0;
+  font-family:"Merriweather", serif;
+  font-size: 1.25rem;
+}
+
+.topBox {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+.middleBox {
+  margin: 20px;
+  background-color: red;
+}
+
+.buttomBox {
+  margin: 20px;
+  background-color: blue
+}
+
+.head {
+  color : #66BFBF;
+  font-family: "Sacramento", serif;
+  font-size: 5.5rem;
+  margin: 0 auto 0 auto;
+
+}
+
+.pro {
+  text-decoration : underline;
+}
+
+.buttom-cloud {
+  position: absolute;
+  left:200px;
+}
+
+.top-cloud {
+  position: absolute;
+  right:100px;
+  top:40px;
+  margin-bottom: 0;
+}
+
+.game {
+  max-width: 200px;
+  height: auto;
+  float: left;
+  margin-right: 30px;
+}
+
+.html {
+  max-width: 200px;
+  height: auto;
+  float: right;
+  margin-left: 30px;
+}
+
+.basketball {
+  max-width: 200px;
+  height: auto;
+  float: left;
+  margin-right:30px;
+
+}
+
+.subtitle {
+  color : #66BFBF;
+  margin-top: 0;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1;
+}
+
+.skillsubtitle {
+  color:#66BFBF;
+}
+
+.footer-link {
+  color:#11999E;
+}
+
+.btn {
+  color:#11999E;
+}
+
+.skill-row {
+  text-align: left;
+  line-height: 2;
+  margin: 100px auto 150px auto;
+  width: 50%;
+}
+
+.bottom-container {
+  margin-top: 30px;
+  padding: 30px 0 30px 0;
+  background-color: #66BFBF;
+}
+
+.bio {
+  width: 30%;
+  margin-left: 35%;
+}
+
+.middle-container {
+  margin-top: 100px;
+}
+
+.points {
+  border:dotted 6px;
+  border-bottom: none;
+  border-color: grey;
+
+}
+
+.credits {
+  color:white;
+}
+
+.tudor {
+  width: 20%;
+  height: auto;
+}
+
+.profile {
+  margin-bottom: 50px;
+}
